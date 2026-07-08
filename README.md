@@ -2,4 +2,4 @@
 
 ## Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=laravel,fastapi,vue,tailwind,bootstrap,docker,redis,postgres,mysql,pytorch&perline=5)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=laravel,fastapi,vue,react,ts,tailwind,bootstrap,docker,redis,postgres,mysql,pytorch&perline=6)](https://skillicons.dev)
